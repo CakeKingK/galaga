@@ -1,2 +1,3 @@
 # galaga
-shooting game for homage galaga
+shooting game for homage to galaga
+
